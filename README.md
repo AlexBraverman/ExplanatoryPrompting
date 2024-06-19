@@ -10,6 +10,6 @@ GitHub repository for "Intuitive Prompting". Dataset used for experiments taken 
 
 **No Prompt** - Baseline experimental trial<br>
 **Verified SOTA** - Add "Let's think step by step" prompt to ***run_experiments.py***<br>
-**Topological Order** - Add prompt found in **a.txt** to ***run_experiments.py***<br>
-**Zero-Shot Intuitive Prompting** - Add prompt found in **a.txt** to ***run_experiments.py***<br>
-**Few-Shot Intuitive Prompting** - Add prompt found in **a.txt** to ***run_experiments.py***<br>
+**Topological Order** - Add prompt found in **prompts/top_order.txt** to ***run_experiments.py***<br>
+**Zero-Shot Intuitive Prompting** - Add prompt found in **prompts/intuitive_prompt.txt** to ***run_experiments.py***<br>
+**Few-Shot Intuitive Prompting** - Add prompt found in **prompts/few_shot.txt** to ***run_experiments.py***<br>
