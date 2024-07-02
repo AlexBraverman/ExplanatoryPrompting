@@ -6,8 +6,6 @@ GitHub repository for "Mitigating Hallucination within Large Language Models usi
 ***run_experiments.py*** - Program used to run trials of experiments on the [Flight Connectivity Dataset](https://github.com/Nanami18/Snowballed_Hallucination) using varying prompting strategies found in the **prompt** directory.<br>
 
 ## Experimental Results
-![alt text](https://github.com/AlexBraverman/IntuitivePrompting/blob/main/intuitive_prompting.png?raw=true)
-
 **No Prompt** - Baseline experimental trial<br>
 **Verified SOTA** - Add "Let's think step by step" prompt to ***run_experiments.py***<br>
 **Topological Order** - Add prompt found in **prompts/top_order.txt** to ***run_experiments.py***<br>
